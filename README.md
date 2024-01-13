@@ -1,2 +1,2 @@
 # API_RedSocial
-API con node y mongodb para una red social
+API Res con node y mongodb para una red social
